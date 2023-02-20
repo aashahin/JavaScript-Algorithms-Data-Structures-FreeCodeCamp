@@ -2,7 +2,7 @@
 * You can refer to it after completing the solution to compare your solution with my solution
 
 1. Basic Javascript [Done].
-2. ES6
+2. ES6 [Done].
 3. Regular Expressions
 4. Debugging
 5. Basic Data Structures

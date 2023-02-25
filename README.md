@@ -3,7 +3,7 @@
 
 1. Basic Javascript [Done].
 2. ES6 [Done].
-3. Regular Expressions
+3. Regular Expressions [Done].
 4. Debugging
 5. Basic Data Structures
 6. Basic Algorithm Scripting

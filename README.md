@@ -5,7 +5,7 @@
 2. ES6 [Done].
 3. Regular Expressions [Done].
 4. Debugging [Done].
-5. Basic Data Structures
+5. Basic Data Structures [Done].
 6. Basic Algorithm Scripting
 7. Object Oriented Programming
 8. Functional Programming

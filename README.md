@@ -6,8 +6,8 @@
 3. Regular Expressions [Done].
 4. Debugging [Done].
 5. Basic Data Structures [Done].
-6. Basic Algorithm Scripting
-7. Object Oriented Programming
+6. Basic Algorithm Scripting [Done].
+7. Object Oriented Programming [Done].
 8. Functional Programming
 9. Intermediate Algorithm Scripting
 10. JavaScript Algorithms and Data Structures Projects.

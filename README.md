@@ -9,5 +9,5 @@
 6. Basic Algorithm Scripting ✅.
 7. Object Oriented Programming ✅.
 8. Functional Programming ✅.
-9. Intermediate Algorithm Scripting
-10. JavaScript Algorithms and Data Structures Projects.
+9. Intermediate Algorithm Scripting ✅.
+10. Projects.

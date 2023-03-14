@@ -1,0 +1,17 @@
+Find the missing letter in the passed letter range and return it.
+
+If all letters are present in the range, return undefined.
+
+#The Solution
+
+function fearNotLetter(str) {
+  let last;
+	for (let i = 0; i < str.length; i++) {
+		if (last ? (str.charCodeAt(i) - last > 1) : undefined) {
+			return String.fromCharCode(str.charCodeAt(i) - 1);
+		}
+		last = str.charCodeAt(i);
+	}
+}
+
+fearNotLetter("abce");

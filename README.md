@@ -10,4 +10,4 @@
 7. Object Oriented Programming ✅.
 8. Functional Programming ✅.
 9. Intermediate Algorithm Scripting ✅.
-10. Projects.
+10. Projects ✅.
